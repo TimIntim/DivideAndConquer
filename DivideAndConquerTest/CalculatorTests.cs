@@ -3,7 +3,7 @@ namespace DivideAndConquerTest
     public class CalculatorTests
     {
         [Fact]
-        public void Test1()
+        public void Test_SumUsingLoop()
         {
 
         }
